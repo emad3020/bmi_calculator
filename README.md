@@ -18,7 +18,7 @@ flutter pub get
 then you can run the application for any platform you want Android, iOS, macOS, or even Windows.
 
 ## Screenshots 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/emad3020/bmi_calculator/blob/main/assets/images/Screenshot%201_.bmi_calculator.jpg?raw=true)![alt text](https://github.com/emad3020/bmi_calculator/blob/main/assets/images/Screenshot%202_.bmi_calculator.jpg?raw=true)
 
 ## Resources and Books
 
